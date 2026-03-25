@@ -1,6 +1,6 @@
 works for twisted 1.22 atleast
 
-requirements: AutoHotkey V2, google chrome
+requirements: AutoHotkey V2, google chrome, electricity
 
 all this macro does is join the provided link and presses play and if you press f2 while ingame it closes roblox and rejoins the server
 
